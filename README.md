@@ -1,3 +1,2 @@
 # GCalExtras
-
-Support for the Google Workspace add-on GCalExtras
+Issue tracker for the Google Workspace add-on GCalExtras
